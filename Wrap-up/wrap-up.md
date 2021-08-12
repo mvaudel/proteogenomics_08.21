@@ -1,6 +1,4 @@
-# Proteogenomics Workshop at the NordBioNet Summer School 2021
-
-## Wrap-up
+## Check-list
 
 Before embarking on a proteogenomics project, ask yourself some important questions...
 
