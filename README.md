@@ -1,4 +1,6 @@
-# Proteogenomics Workshop at the NordBioNet Summer School 2021
+# NordBioNet Summer School 2021
+
+## Introduction to Proteogenomics
 
 Welcome! This repository contains the materials for the _Proteogenomics Workshop at the NordBioNet Summer School 2021_.
 
